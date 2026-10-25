@@ -15,7 +15,7 @@ from dataset import CustomDataset
 
 logger = get_logger(__name__)
 
-MAX_EPOCHS = 30
+MAX_EPOCHS = 60
 SAVE_INTERVAL = 5
 PRINT_INTERVAL = 10
 INFERENCES_INTERVAL = 5
